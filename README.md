@@ -11,4 +11,4 @@ This project entails an in-depth analysis of a comprehensive startup dataset, co
 
 ## Technology Stack
 
-1. QL: Leveraged for efficient data manipulation and analysis.
+1. SQL: Leveraged for efficient data manipulation and analysis.
